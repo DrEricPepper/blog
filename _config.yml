@@ -18,13 +18,13 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale                   : "en-US"
 title                    : "The Tributary"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Eric (Yu Qian)"
-description              : "Neuroscience and AI researcher. Writer."
+subtitle                 : "Science, literature, music, life." # site tagline that appears below site title in masthead
+name                     : "The Tributary Blog"
+description              : "Science, literature, music, life."
 url                      : "https://DrEricPepper.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
 repository               : "DrEricPepper/blog" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/title_image.tiff" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Eric (Yu Qian)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Science, literature, music, life."
+  bio              : "Neuroscience and AI researcher. Writer."
   location         : "Shanghai, China"
   email            : "drericpepper@gmail.com"
   links:
