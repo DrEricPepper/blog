@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Eric (Yu Qian)"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/eric_on_thames.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Neuroscience and AI researcher. Writer."
   location         : "Shanghai, China"
   email            : "drericpepper@gmail.com"
