@@ -1,7 +1,6 @@
 layout: splash
 permalink: /
 header:
-    overlay_color: # "#5e616c"
-    overlay_image: /assets/images/mm-home-page-feature.jpg
+    overlay_image: /assets/images/title_image.tiff
 excerpt: >
     A place to share and exchange opinions on science, literature, music, life and more.
