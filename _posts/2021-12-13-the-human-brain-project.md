@@ -17,7 +17,7 @@ Just kidding, the root of my brain fascination had been a philosophical one: to 
 Being able to create something is the pinnacle form of understanding. There are different ways in which this quote could be interpreted. Did Dr. Feynamn mean **when we understand something, we could then create it** or **in order to understand something, we have to try to create it first** ? Bear this question in mind as you read on.
 
 # The Human Brain Project
-The Human Brain Project, and its predecessor the Blue Brain Project, are aimed at simulating the brain in the human brain in the most biologically-detailed fashion. To achieve that, the scientists first simulated small chunks of rat brain. Sounds fun, right? However, the approach became quite controversial and caused quite a debate back in the days.
+The Human Brain Project, and its predecessor the Blue Brain Project, are aimed at simulating the brain in the human brain in the most biologically-detailed fashion. To achieve that, the scientists first simulated small chunks of rat brain. Sounds fun, right? However, the approach was controversial and caused quite a debate back in the days.
 
 The inception and controversy around these simulation projects had accompanied me throughout my budding scientific interests: in late 2000s when I started middle school, the Blue Brain Project launched; around the time I finished high school, the Human Brain Project launched, and later received massive criticism from the neuroscience community; now, as I embark on the journey of neuroscience research, the project quietly wraps up to an end. Since the goal of the HBP and my early scientific interests were perfectly aligned, it was particularly hard for me to process the community backlash on the project.
 
@@ -45,9 +45,11 @@ As the saying goes, 'Let he who without sin cast the first stone'. I will take a
 # Do not despair
 Hopefully I have convinced you, at least a little, that at the current stage of neuroscience, large-scale brain simulation is a bad idea. It is interesting, but compared to the vast mysteries of the brain, it is uneconomic to pursue such a question. Simulations will develop on par with the theories. And when the time is ripe, maybe this approach could be revisited.
 
-The lessons from the HBP should be carefully considered for everyone seeking to work with single-neuron models or network models based on connectomes (more of a reevaluation than a discouragement). First, think of possible hypothesis and outcomes. Know what to expect. Second, start small, not big. Do not go full super computer unless there is a solid reason for it. Third, dive deep into the nitty gritty of molecular, systems and cognitive neuroscience to seek theoretical foundations for the work. Theories are hard, and computational theories are even harder. But ultimately, technology and theory are the two indispensable wheels that keep the field in motion.
+The lessons from the HBP should be carefully considered for everyone seeking to work with single-neuron models or network models based on connectomes (more of a reevaluation than a discouragement). First, think of possible hypothesis and outcomes. Know what to expect. Second, start small, not big. Do not go full super computer unless there is a solid reason for it. Third, dive deep into the nitty gritty of molecular, systems and cognitive neuroscience to seek theoretical foundations for the work.
 
-Is simulating the brain with a computer theoretically possible? What current models are there neuroscientists currently toying with? More on this later. Remember come back and visit!
+Theories are hard, and computational theories are even harder. But ultimately, technology and theory are the two indispensable wheels that keep the field in motion.
+
+Is simulating the brain with a computer theoretically possible? What current models are there neuroscientists currently toying with? More on this later. Remember to come back and check out the latest posts!
 
 # Bibliography
 [Human Brain Project Home](https://www.humanbrainproject.eu/en/)

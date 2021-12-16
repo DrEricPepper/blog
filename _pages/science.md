@@ -1,5 +1,5 @@
 ---
-title: Miscellaneous Posts
+title: Science Posts
 layout: category
 permalink: /science/
 taxonomy: science

@@ -2,13 +2,11 @@
 main:
   - title: "Science"
     url: https://drericpepper.github.io/blog/science/
+    title: "Literature"
+    url: https://drericpepper.github.io/blog/literature/
+    title: "Music"
+    url: https://drericpepper.github.io/blog/music/
+    title: "Programming"
+    url: https://drericpepper.github.io/blog/programming/
   - title: "Miscellaneous"
     url: https://drericpepper.github.io/blog/misc/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
