@@ -44,15 +44,24 @@ As the saying goes, 'Let he who without sin cast the first stone'. I will take a
 
 # Do not despair
 Hopefully I have convinced you, at least a little, that at the current stage of neuroscience, large-scale brain simulation is a bad idea. It is interesting, but compared to the vast mysteries of the brain, it is uneconomic to pursue such a question. Simulations will develop on par with the theories. And when the time is ripe, maybe this approach could be revisited.
+
 The lessons from the HBP should be carefully considered for everyone seeking to work with single-neuron models or network models based on connectomes (more of a reevaluation than a discouragement). First, think of possible hypothesis and outcomes. Know what to expect. Second, start small, not big. Do not go full super computer unless there is a solid reason for it. Third, dive deep into the nitty gritty of molecular, systems and cognitive neuroscience to seek theoretical foundations for the work. Theories are hard, and computational theories are even harder. But ultimately, technology and theory are the two indispensable wheels that keep the field in motion.
+
 Is simulating the brain with a computer theoretically possible? What current models are there neuroscientists currently toying with? More on this later. Remember come back and visit!
 
 # Bibliography
 [Human Brain Project Home](https://www.humanbrainproject.eu/en/)
+
 [Human Brain Project - EBRAINS  interactive simulation platform](https://ebrains-cls-interactive.github.io/)
+
 [The Scientific Case for Brain Simulations](https://www.sciencedirect.com/science/article/pii/S0896627319302909) Science. 2019.
+
 [The Human Brain Project Hasn’t Lived Up to Its Promise](https://www.theatlantic.com/science/archive/2019/07/ten-years-human-brain-project-simulation-markram-ted-talk/594493/) The Atlantic. 2019.
+
 [Why the Human Brain Project Went Wrong—and How to Fix It](https://www.scientificamerican.com/article/why-the-human-brain-project-went-wrong-and-how-to-fix-it/) Scientific American. 2015.
+
 [The Big Problem With “Big Science” Ventures—Like the Human Brain Project](https://nautil.us/blog/the-big-problem-with-big-science-ventureslike-the-human-brain-project) Nautilus. 2015.
+
 [Rethinking the brain](https://www.nature.com/articles/519389a) Nature. 2015.
+
 [Rat brain—or a smidgeon of it—is modeled in a computer](https://www.science.org/content/article/rat-brain-or-smidgeon-it-modeled-computer) Science. 2015.

@@ -9,4 +9,4 @@ tags:
   - update
 ---
 
-Welcome! This is the first post of the blog. Hopefully this little blog will find itself in good companies in the future :D
+Welcome! This is the first post of the blog. Hopefully this little blog will find itself in good company in the future :D
