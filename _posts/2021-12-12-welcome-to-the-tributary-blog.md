@@ -1,7 +1,8 @@
 ---
 title:  "Welcome to the Tributary blog!"
 header:
-  teaser: "/assets/images/sibun_river.png"
+  image: "/assets/images/sibun_river.png"
+  caption: "Photo credit: [**Reddit**](https://www.reddit.com/r/EarthPorn/comments/lg0xno/tree_shaped_river_tributary_sibun_river_belize/)"
 categories: 
   - misc
 tags:
