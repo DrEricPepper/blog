@@ -8,4 +8,4 @@ tags:
   - update
 ---
 
-Welcome!
+Welcome! This is the first post of the blog. Hopefully this little blog will find itself in good companies in the future :D

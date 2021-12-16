@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Science"
+    url: https://drericpepper.github.io/blog/science/
   - title: "Miscellaneous"
     url: https://drericpepper.github.io/blog/misc/
   # - title: "About"
