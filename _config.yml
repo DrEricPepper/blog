@@ -104,13 +104,13 @@ analytics:
 author:
   name             : "Eric (Yu Qian)"
   avatar           : "/assets/images/eric_on_thames.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Neuroscience and AI researcher. Writer."
+  bio              : "Aspiring neuroscience and AI researcher. Writer. Developer."
   location         : "Shanghai, China"
   email            : "drericpepper@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:drericpepper@gmail.com"
+      # url: "mailto:drericpepper@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
