@@ -2,11 +2,11 @@
 main:
   - title: "Science"
     url: https://drericpepper.github.io/blog/science/
-    title: "Literature"
+  - title: "Literature"
     url: https://drericpepper.github.io/blog/literature/
-    title: "Music"
+  - title: "Music"
     url: https://drericpepper.github.io/blog/music/
-    title: "Programming"
+  - title: "Programming"
     url: https://drericpepper.github.io/blog/programming/
   - title: "Miscellaneous"
     url: https://drericpepper.github.io/blog/misc/
