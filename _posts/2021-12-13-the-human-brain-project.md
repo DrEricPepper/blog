@@ -10,7 +10,7 @@ tags:
   - simulation
 ---
 
-One of my biggest aspiration in science had been to simulate the brain in its full glory -- an intelligent automata in silico. If science fictions and forward-thinking scientists and entrepreneurs have taught us anything, it is that artificial intelligence is the future, and when our robot overlords inevitably rule over the world, they would certainly think in favor of those who created them.
+One of my biggest aspiration in science had been to simulate the brain in its full glory -- an intelligent automata in silico. If science fictions and forward-thinking scientists and entrepreneurs have taught us anything, it is that artificial intelligence is the future, and when our robot overlords inevitably rule the world, they would certainly think in favor of those who created them.
 
 Just kidding, the root of my brain-mania had been a philosophical one: to understand myself in the deepest way possible. As Dr. Feynman famously decreed, in a stereotypical physicist / engineer fashion:
 # “What I cannot create, I do not understand”
@@ -47,11 +47,11 @@ Large directives like the HBP particularly need community feedbacks. In 2014, an
 # Do not despair
 Hopefully I have convinced you, at least a little, that at the current stage of neuroscience, large-scale brain simulation is a bad idea. It is interesting, but compared to the vast mysteries of the brain, it is uneconomic to pursue such a question. Simulations will develop on par with the theories. And when the time is ripe, maybe this approach could be revisited.
 
-The lessons from the HBP should be carefully considered for everyone seeking to work with single-neuron models or network models based on connectomes (more of a reevaluation than a discouragement). First, think of possible hypothesis and outcomes. Know what to expect. Second, start small, not big. Do not go full super computer unless there is a solid reason for it. Third, dive deep into the nitty gritty of molecular, systems and cognitive neuroscience to seek theoretical foundations for the work.
+The lessons from the HBP should be carefully considered for everyone seeking to work with single-neuron models or network models based on connectomes (more of a reevaluation than a discouragement). First, think of possible hypothesis and outcomes. Know what to expect. Second, start small, not big. Do not go full supercomputer unless there is a solid reason for it. Third, dive deep into the nitty gritty of molecular, systems and cognitive neuroscience to seek theoretical foundations for the work.
 
 Theories are hard, and computational theories are even harder. But ultimately, technology and theory are the two indispensable wheels that keep the field in motion.
 
-Is simulating the brain with a computer theoretically possible? What current models are there neuroscientists currently toying with? More on this later. Remember to come back and check out the latest posts!
+Is simulating the brain with a computer theoretically possible? What brain models are the neuroscientists currently toying with? More on this later. Remember to come back and check out the latest posts!
 
 # Bibliography
 [Human Brain Project Home](https://www.humanbrainproject.eu/en/)
